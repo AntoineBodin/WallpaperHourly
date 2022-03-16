@@ -16,7 +16,7 @@ namespace WallpaperHourly
         public static void Main(string[] args)
         {
             var inputFilePath = args[0];
-            StreamWriter str = File.CreateText("C:\\Users\\antoi\\OneDrive\\Bureau\\PFA\\test.txt");
+            StreamWriter str = File.CreateText("C:\\temp\\WallpaperHourlyLogs.txt");
            
             var fileStream = File.OpenRead(inputFilePath);
             InputFile inputFile;
