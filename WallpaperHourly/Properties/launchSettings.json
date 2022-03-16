@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WallpaperHourly": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\antoi\\OneDrive\\Bureau\\input.json\""
+    }
+  }
+}
